@@ -1,0 +1,6 @@
+com\jwt\WebSecurityConfiguration.class
+com\jwt\auth\UserDetailsService.class
+com\jwt\request\LoginRequest.class
+com\jwt\auth\TokenManager.class
+com\jwt\api\AuthConroller.class
+com\jwt\auth\JwtTokenFilter.class
